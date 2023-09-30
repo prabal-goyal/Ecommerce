@@ -36,6 +36,18 @@ const data = {
       numReviews: 15,
       description: 'high quality pant',
     },
+    {
+      name: 'Nike Linen Trouser',
+      slug: 'nike-linen-Trouser',
+      category: 'Trouser',
+      image: '/images/p4.jpg',
+      price: 120,
+      countInStock: 10,
+      brand: 'Nike',
+      rating: 4.3,
+      numReviews: 15,
+      description: 'high quality pant',
+    },
   ],
 };
 
